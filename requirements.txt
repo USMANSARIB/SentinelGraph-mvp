@@ -5,8 +5,9 @@ python-dateutil
 requests
 
 # --- Data Processing ---
-pandas
-numpy
+# pandas
+# numpy
+# pandas & numpy installed via pkg (Termux native)
 
 # --- Bot Detection / Graph Analysis ---
 networkx
