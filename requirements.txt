@@ -1,0 +1,32 @@
+# --- Scraping ---
+snscrape @ git+https://github.com/JustAnotherArchivist/snscrape.git
+tqdm
+python-dateutil
+requests
+
+# --- Data Processing ---
+pandas
+numpy
+
+# --- Bot Detection / Graph Analysis ---
+networkx
+
+# --- Narrative Spike Detection (Light ML) ---
+scikit-learn
+
+# --- Embeddings (Termux-Friendly) ---
+sentence-transformers
+onnxruntime
+
+# --- Database Options ---
+sqlite-utils
+psycopg2-binary
+
+# --- Backend API ---
+fastapi
+uvicorn
+pydantic
+
+# --- Utilities ---
+python-dotenv
+loguru
